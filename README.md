@@ -1,4 +1,4 @@
-[ ] models.DB.create -> issues in the controllers
+[ ] models.DB.create -> issues in the controllers use the database.go under pkg\config
 
 [ ] Make sure you go through all the issues that comes with scrape.go(mainly playwright)
 
